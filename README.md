@@ -1,10 +1,8 @@
 # Atividade-ABD_2 - Sistema de Conta Bancária com Testes de Concorrência
 
 ## Identificação do Trabalho
-**Alunos:** [Nome dos Alunos]  
-**Disciplina:** Arquitetura e Banco de Dados  
-**Professor:** [Nome do Professor]  
-**Data:** [Data da Entrega]
+**Alunos:** Miguel tobias vaz furtado, Pedro wilson pereira neto 
+**Disciplina:** Aplicação de Banco de Dados  
 
 ## Descrição do Projeto
 
